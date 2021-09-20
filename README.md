@@ -1,2 +1,2 @@
-# Optical-Character-Recognition-ORC-
+# Object Detection
 #task-1
